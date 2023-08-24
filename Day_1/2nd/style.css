@@ -1,0 +1,57 @@
+.box
+{
+    border: solid 1px gray;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    width: 520px;
+    height: 300px;
+    font-family: Roboto,Arial,sans-serif;
+    padding-left: 30px;
+    padding-top: 10px;
+}
+
+.container
+{
+    margin: 100px auto;
+}
+
+h1
+{
+    font-weight: 500;
+}
+
+.imgdiv
+{
+    margin-top: 40px;
+    margin-left: 20px;
+}
+
+img
+{
+    border-radius: 50%;
+}
+
+#img2
+{
+    margin-left: 55px;
+}
+
+p
+{
+    color: grey;
+}
+
+#inner
+{
+    border: 1px solid gray;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    margin: 0;
+    padding-right: 40px;
+    width: 480px;
+    height: 54px;
+    padding-left: 30px;
+    padding-top: 28px;
+    font-size: 20px;
+}
+
